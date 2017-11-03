@@ -1,0 +1,10 @@
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/bin/Debug/netcoreapp2.0/dreamstarter.deps.json
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/bin/Debug/netcoreapp2.0/dreamstarter.runtimeconfig.json
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/bin/Debug/netcoreapp2.0/dreamstarter.runtimeconfig.dev.json
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/bin/Debug/netcoreapp2.0/dreamstarter.dll
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/bin/Debug/netcoreapp2.0/dreamstarter.pdb
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/obj/Debug/netcoreapp2.0/dreamstarter.csproj.CoreCompileInputs.cache
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/obj/Debug/netcoreapp2.0/dreamstarter.AssemblyInfoInputs.cache
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/obj/Debug/netcoreapp2.0/dreamstarter.AssemblyInfo.cs
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/obj/Debug/netcoreapp2.0/dreamstarter.dll
+/home/q/Desktop/Internship_Dreamstarter/DotnetCore_API_from_Tutorial/dreamstarter/obj/Debug/netcoreapp2.0/dreamstarter.pdb
